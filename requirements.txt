@@ -4,4 +4,3 @@ librosa
 numpy
 pydantic
 soundfile
-audioread
